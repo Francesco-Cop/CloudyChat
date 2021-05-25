@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "tT/FcMLi2rd2WvvVdVbuNiCPAXZ/dDgN8Uzbp1aBWFtlpecof9ppSUcyMP0li7Gn19Y7RrG49HSHLYCyjRtnjQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Kecho\\source\\repos\\CloudyChat\\CloudyChat\\CloudyChat.iOS\\CloudyChat.iOS.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Kecho\\.nuget\\packages\\system.numerics.vectors\\4.5.0\\system.numerics.vectors.4.5.0.nupkg.sha512",
+    "C:\\Program Files (x86)\\Microsoft\\Xamarin\\NuGet\\xamarin.essentials\\1.6.1\\xamarin.essentials.1.6.1.nupkg.sha512",
+    "C:\\Program Files (x86)\\Microsoft\\Xamarin\\NuGet\\xamarin.forms\\5.0.0.2012\\xamarin.forms.5.0.0.2012.nupkg.sha512"
+  ],
+  "logs": []
+}
